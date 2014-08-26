@@ -1,0 +1,12 @@
+name: Get Material
+
+author: Clinton Harwood
+
+main: com.harwood.minecraft.material.GetMaterial
+
+commands:
+  getmaterial:
+    description: Player will receive x amount of requested material
+    usage: /getmaterial material_name amount e.g. /getmaterial dirt 10
+    
+version: 0.1
